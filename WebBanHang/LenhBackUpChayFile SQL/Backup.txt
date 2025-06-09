@@ -1,0 +1,36 @@
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 094903.png'
+WHERE Id = 1;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 094922.png'
+WHERE Id = 2;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 094933.png'
+WHERE Id = 3;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 094951.png'
+WHERE Id = 4;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 5;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 6;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 7;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 8;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 9;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 10;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 11;
+UPDATE Products
+SET ImageUrl = '/images/products/Screenshot 2025-05-23 095001.png'
+WHERE Id = 12;
