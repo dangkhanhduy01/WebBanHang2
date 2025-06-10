@@ -6,10 +6,12 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using WebBanHang.Models;
 using WebBanHang.Areas.Customer.Models;
+using Microsoft.AspNetCore.Authorization;
 
 namespace WebBanHang.Areas.Customer.Controllers
 {
     [Area("Customer")]
+    
     public class ProductController : Controller
     {
         private ApplicationDbContext _db;
